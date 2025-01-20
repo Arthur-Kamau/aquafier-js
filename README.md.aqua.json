@@ -1,0 +1,21 @@
+{
+  "revisions": {
+    "0x79654da8d01f42e70e5c9a4456d1d13dd89ba5d2a76c20165a1ff6712df5182b": {
+      "previous_verification_hash": "",
+      "nonce": "jW_Y7FLsZhc4RKEgnoM241uAtZ_qZlYZ6t9VonEochc",
+      "local_timestamp": "20250116112518",
+      "revision_type": "file_hash",
+      "file_hash": "1220902594fb1c28f02f8aec83ea2aec068d24aa104d12712c9c190f888bd21e8ca1",
+      "leaves": [
+        "122084783d7715ab05999a578256328cd2ca53c042ff4940a7c21f72a0c332c49e12",
+        "12204afd49dc6b73ccb6b2eaf76a7d10c69e524b2622e8e8ca9af43b4cd13424cddb",
+        "122006f1f6afad9b6843f4a1207a2732726b5b5eef746dc50e6365b9c7d6a1a3756a",
+        "1220d781acf7ba880ecae581ffd8debcb4f5cb430bc2f237e27a6098471a9f7ffa60",
+        "12207eea9613c6543d280b92a70e7b03451901dbf8ed6993eb2488210961277e0775"
+      ]
+    }
+  },
+  "file_index": {
+    "1220902594fb1c28f02f8aec83ea2aec068d24aa104d12712c9c190f888bd21e8ca1": "README.md"
+  }
+}

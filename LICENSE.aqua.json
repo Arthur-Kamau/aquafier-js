@@ -1,0 +1,21 @@
+{
+  "revisions": {
+    "0x345c1755a05e6656b864944a6936e7a073edddbbb2e4cf12d566eaa4c5ec52b6": {
+      "previous_verification_hash": "",
+      "nonce": "-5ayFRP6ENYwlWCW8wTMNI3YLd1XVeLb6cdYYGaHdcA",
+      "local_timestamp": "20250116112323",
+      "revision_type": "file_hash",
+      "file_hash": "12203972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "leaves": [
+        "122033168fe301fc384da07fbd9a3d52c477b60d09418b0f0627ebd5a05ccd8518f8",
+        "1220f93e5d9100d71e55a4834729db24426bcaa9f445d913f251272e25587b83811f",
+        "12208a6a77dec6421a22b4e201eee40ddb5aece0b41d58b97f6b25489bd6d8efc4cd",
+        "1220d781acf7ba880ecae581ffd8debcb4f5cb430bc2f237e27a6098471a9f7ffa60",
+        "12207eea9613c6543d280b92a70e7b03451901dbf8ed6993eb2488210961277e0775"
+      ]
+    }
+  },
+  "file_index": {
+    "12203972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986": "LICENSE"
+  }
+}

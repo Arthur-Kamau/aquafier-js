@@ -1,4 +1,4 @@
-import { ResultStatus, ResultStatusEnum, Revision, RevisionContent, RevisionSignature, RevisionVerificationResult, VerifyFileResult, RevisionWitness, PageData, HashChain, RevisionAquaChainResult } from "./models/models";
+import { ResultStatus, ResultStatusEnum, Revision, RevisionContent, RevisionSignature, RevisionVerificationResult, VerifyFileResult, RevisionWitness, PageData, HashChain, RevisionAquaChainResult } from "./models/library_models";
 import { getHashSum, jsonReplacer, verifyContentUtil, verifyFileUtil, verifyMetadataUtil, verifyWitnessUtil, verifySignatureUtil } from "./utils/utils";
 
 const INVALID_VERIFICATION_STATUS = "INVALID"

@@ -1,7 +1,7 @@
 import AquaVerifier from '../index';
 import * as fs from 'fs';
 import * as path from 'path';
-import { PageData } from '../models/models';
+import { PageData } from '../models/library_models';
 
 
 describe('Aqua Verifier Tests', () => {

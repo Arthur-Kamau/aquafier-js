@@ -1,6 +1,6 @@
 
 import sha3 from "js-sha3"
-import { MerkleNode, RevisionContent, RevisionMetadata, RevisionSignature, RevisionWitness, VerifyFileResult } from "../models/models"
+import { MerkleNode, RevisionContent, RevisionMetadata, RevisionSignature, RevisionWitness, VerifyFileResult } from "../models/library_models"
 import { ethers } from "ethers"
 import { checkEtherScan } from "./check_etherscan"
 import { checkTransaction } from "./updated_check_etherscan"
